@@ -1,6 +1,7 @@
 {
-  "name": "Scrim-s06j1hm",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~06wf",
+  "name": "Tenzies-Game",
+  "description": "Tenzies Game built with React and Vite",
+  "author": "Adnan Ahmad",
   "scripts": {
     "start": "vite",
     "dev": "vite",
